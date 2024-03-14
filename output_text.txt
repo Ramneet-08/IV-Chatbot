@@ -1,0 +1,293 @@
+Address Update
+I ordered these towels as gifts for a lake trip. The trip is next week, but I will be going out of town
+before the lake trip and will not be at my house to receive them. Is it too late to send to a different
+address? The new address would be Jackie Winkelmann 2210 East Lawther Lane
+Deer Park TX 77536. I placed my order this morning. Order #GSandCloud83123
+Hi Marisela,
+Thank you for reaching out to Sand Cloud!
+We have updated your shipping address for order (INSERT ORDER NUMBER). You will receive an email
+confirmation once the order has been shipped.
+We highly appreciate your support for saving our oceans and marine life!
+Please feel free to contact us for any further assistance.
+Account Activation
+Have tried 4 times to create an account
+Hello {{customer.name}},
+Thank you for reaching out to Sand Cloud!
+We are sorry to hear that you are unable to login to your account.
+We have checked your details and see that your email address is still not yet verified.
+Please use this link to sign up: https://www.sandcloud.com/account/login 
+Click on the Sign Up option and fill out the form with your details.
+Please let us know if you still have issues in accessing your account.
+Cancel or exchange order after it has been shipped
+I placed my order yesterday and I was wondering if I could change out one of the items I
+purchased. I would like to switch the Destroyers - Star Wars™ Towell to the Fighters - Star Wars
+Towell before my order ships
+Hi {{customer.firstName}},
+Thank you for shopping with Sand Cloud!
+At this time, we are unable to cancel your order as it has already shipped and is currently in transit to your
+destination.
+Here is your tracking number:
+(INSERT TRACKING NUMBER)
+Estimated delivery date is (INSERT HERE)
+If you wish to return your package, please refuse the package or use the return link below to return your
+item (free of cost):
+https://returns.sandcloud.com/#/
+Let us know if you have further questions.
+Cancel Update
+Please cancel this order. I forgot the coupon code, but placed a second order using it.
+Hello {{customer.firstName}},
+We are following up on order (INSERT ORDER NUMBER).
+We were able to successfully process the cancellation for you. Please allow 2-5 business days for the
+refund to reflect back to your original form of payment.
+Please let us know if you have any further questions!
+Chargeback
+First email response sent for the orders which has an open chargeback
+Hello {{customer.name}},
+We are reaching out from Sand Cloud regarding a recent purchase that was made.
+Upon checking our records, we have become aware that there is a bank dispute on your recent order
+(ADD ORDER).
+While the chargeback is open, please be aware that we are unable to process any refunds or
+replacements.
+We are sorry for any inconveniences and we want to know what we can do to help resolve this.
+Kindly let us know the reasoning and we will work with you to rectify the situation.
+We appreciate your time and look forward to your response.
+Code not working during Sale
+When I placed the above order I did not see a place for my coupon code SEALION15 is it too late
+to apply it now?
+Hi {{customer.firstName}}
+Thank you for reaching out to Sand Cloud!
+We are currently running a sale on our site! During sales, codes and rewards points are deactivated as
+they cannot be combined with other offers or promotions.
+Please be sure to check in after our sale to use any codes or points.
+We appreciate your patience!
+Damaged Item
+Can you refund me? the cooler has a bad seam!
+Hi {{customer.firstName}}
+Thank you for reaching out to Sand Cloud!
+We want to sincerely apologize that the (ADD PRODUCT NAME HERE) arrived damaged.
+Let us take care of this for you and send you a new (ADD PRODUCT NAME HERE).
+Please confirm that the preferred shipping address is:
+(ADD CUSTOMERS SHIPPING ADDRESS HERE)
+Thank you and we look forward to your response.
+Order tracking shows delivered, but not received by the customer
+Hi, I am reaching out because it says my order was delivered in and I have not received it.
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+We want to apologize that you have yet to receive your package. We see that your package was marked
+as delivered on (ADD DELIVERED DATE) to address: (ADD ADDRESS HERE)
+Please allow up to 4 business days from the delivery date for the package to be delivered. Tracking
+numbers may not be updated automatically by the carrier and will reflect a different status on delivery.
+Also, please check your mailbox and ask your neighbors if they signed and received the package on your
+behalf.
+Reach out to us if you have yet to receive your package after the 4 business days.
+Discount Exclusions during Sale
+I am trying to apply the FIREWORKS discount code for my order but it says it is not valid. The
+display does not signify specific items that get the discount, is this a glitch? I really need to order
+the towel soon for it to be on time for my anniversary.
+Hello {{customer.firstName}},
+Thank you for reaching out to Sand Cloud regarding our sale.
+During our sales, some exclusions may apply. These will mostly apply to any of our new collections.
+We hope this helps and please let us know if you have any further questions!
+Item exchange confirmation
+I just placed order today and it not fulfilled yet. I also just received email that the color I wanted is
+back in stocks and I see the mdw25 discount still works. I couldn't cancel order online and
+reorder. Can I still change the Crush Turtle XL to the Crush Turtle Teal XL?
+Hi {{customer.firstName}},
+Thank you for shopping with Sand Cloud!
+We were able to exchange your (ITEM NAME) for the (ITEM NAME) on order (ORDER NUMBER).
+You will receive an email with the tracking information when your order ships.
+We highly appreciate your support for sharing our mission in saving our oceans and marine life!
+Order in transit (No movement)
+I placed my order (#1849894) on Sunday and I have not received word that it
+has been shipped yet. I was really hoping it would be here by Friday (as it
+is for a birthday on Saturday) so I am just checking in on the shipping
+status.
+Hello {{customer.firstName}}
+Thank you for reaching out to Sand Cloud!
+We see that your order is in transit. Tracking shows that it was last scanned on INSERT DATE.
+We ask that you allow a few business days for the tracking to update. Rest assured, your order will be
+delivered.
+We appreciate your patience and understanding. Please let us know if you have any further questions.
+Order in transit (providing tracking info)
+I Paid extra for 2-3 day shipping. I still haven’t received a notification of my
+order being shipped yet. Can you please check on this for me?
+Hey {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+Your order is already in transit to your destination and we hope you receive it soon!
+Please continue to track your parcel using your tracking link below:
+Domestic shipping takes an average of 4-7 business days for delivery.
+International shipping takes an average of 15-21 business days delivery or earlier.
+You are expected to receive it on (Date)
+If you have questions, please feel free to reach out anytime.
+International custom charges
+I wanted to ask how much shipping costs would be to Toronto ON Canada? I know shipping is
+calculated at checkout, but I was wondering if I could know the price beforehand so I know
+whether it is in the budget or not!
+Hi {{customer.firstName}},
+Thank you for shopping with Sand Cloud!
+We understand that international shipping and customs charges can be frustrating.
+During the checkout process, we provide the option to pay for custom and duties prior to delivery. If you
+choose to opt out of this, you are responsible for paying these charges once your package is delivered.
+Please be sure to reach out to us if you have any issues paying for the fees.
+Loop Exchange
+My order just arrived today (thanks for the quick processing!) however I
+realized that I ordered the wrong color of dish towels. I thought I ordered
+Cyperus to match the order I received a few weeks ago, but I mistakenly
+ordered the Cassia which is way too dark for my kitchen.
+Hello {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+We understand that sometimes, things don't work out. Feel free to exchange your product using the link
+below:
+https://returns.sandcloud.com/#/
+Steps:
+1. Open Link
+2. Add Order # and Zip Code (If you cannot find your Order # please log into your account, check your
+emails for the order confirmation, or email us)
+3. If your order is a gift, please click on 'Return or Exchanging a Gift'
+4. Once the product is in transit, your exchange will be created.
+If you have any issues with your return, please reach back out to us.
+Order lost in transit response
+I have reached out previously regarding the towel I purchased. The USPS still states it is awaiting
+the package. I responded as requested previously to verify my shipping address address and
+never received a response. At this moment I am not confident that I will even receive my order.
+Hello {{customer.firstName}},
+Thank you for your inquiry and we are sorry that your order has still not arrived. We’ve gone ahead and
+taken a look at the tracking link and it does look like the product has been lost in transit.
+Rest assured that we will be sending you a replacement free of charge. Is the order address on file still
+the best address to send the new package to?
+We can also offer a refund if you no longer wish to receive a replacement.
+Please let us know what is best for you.
+Missing Item
+Hello I did receive 2/3 items from my order today. I did not receive the
+red white and blue towel.
+Please advise what needs to be done.
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+We want to sincerely apologize that you did not receive your item. Please let us know which item you are
+missing and provide us with a photo of the items you have received.
+Once we receive this information, we will be happy to provide a resolution.
+Thank you for your patience! We look forward to your response.
+Negative feedback
+I appreciate the update. Kind of shocked that DHL basically said, no I don't wanna deliver it, here
+you do it. Actually I'm not really surprised, as I have mentioned before, DHL sucks. You guys
+make a great product. It is a shame that the late delivery puts a negative vibe on such a great
+brand, and on an otherwise very smooth transaction.
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+We appreciate your feedback and understand your concerns. Our goal is to always keep improving our
+brand with our customers in mind.
+Thank you for your feedback and please let us know if you have any further questions.
+Offering code as OTC
+That is a bummer to hear as I have gotten the other item so it would match the
+Bath Towel. I would have not gotten the hand towels had I known the bath towels
+would be sold out.
+I will take the free shipping code and credit please.
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+We highly value you as one of our customers and we want you to be happy with your purchase.
+We would LOVE to provide you with a coupon code for $_ that you can use on your next purchase!
+Your special code is:
+Please be sure to enter your correct shipping address to ensure delivery.
+Let us know if you have any further questions!
+Order status shows delivered
+The shop app is indicating that my order has shipped but I haven’t received any emails saying
+that it has. There is no information on the shop app either of a ETA. can you let me know any info
+about my order please? Thanks.
+Hello {{customer.firstName}},
+Thank you for reaching out to Sand Cloud regarding the status of your order.
+We see that your order has been delivered on (ADD DELIVERY DATE HERE).
+Here are your tracking details:
+Please let us know if you have any further questions!
+Item restock related
+Just wondering if there are plans to restock the Zinnia Party Blanket? And if so, how soon that
+might be expected?
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+At this time (insert item name here) is currently out of stock.
+We ask that you continue to check our social media for real time updates. Please also add your email
+address to be notified when the item is back in stock by clicking on the NOTIFY ME button on the product.
+We appreciate your understanding and please let us know if there is anything else we can assist with!
+Payment pending orders
+First response sent to the orders where the payment seems to be pending, mostly with PayPal
+orders
+Hello {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+Your payment for (ORDER HERE) is currently being processed. Please allow a few business days for the
+payment to clear.
+We thank you for your patience and let us know if you have any further questions.
+Potential fraud orders
+First response sent for order verification of orders that have been tagged as fraud by the system
+Hello {{customer.firstName}},
+We wanted to reach out in regards to a recent order that was placed under email address: (INSERT
+EMAIL ADDRESS).
+The order was flagged for potential fraud and we would like to verify a few things before we process the
+order. Please verify the following information:
+Full name
+Shipping address
+Items purchased made in Sand Cloud
+Please let us know if you have any questions. We look forward to your response.
+Order delivered to wrong address
+Hi! I just placed this order and forgot to put “unit A” as part of my address. Can I get this added?
+Thanks!
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+At this time, we are not responsible for lost packages due to wrong address. We ask that you reach out to
+the carrier and file a claim for the lost package.
+ 
+If your package is delivered back to our warehouse, we will be happy to issue a refund once the item is
+delivered and inspected.
+Let us know if you have any further questions!
+Refund confirmation
+I did not mean to place order before entering my Fireworks discount code! Help!!!!
+Hi {{customer.firstName}},
+Thank you for reaching out to Sand Cloud!
+We have processed your refund in the amount of ($0.00). Please allow 3-5 business days for the refund
+to reflect back to your original form of payment.
+We appreciate your support for sharing our mission in saving our oceans and marine life!
+Retail store purchases
+I bought my XL towel a month ago at your LA store. I’ve only used it a handful of times since but
+I’m already seeing threads coming loose (I’ve attached photos of a few). This shouldn’t be
+happening within a few uses should it? Those will very easily get caught on stuff and will pull
+more threads and I’m worried the product will be compromised.
+Hello {{customer.name}},
+Thank you for reaching out to Sand Cloud!
+We are happy to assist you with your inquiry!
+Since your purchase was made in store, we will be forwarding your inquiry to our retail team.
+They will be in contact with you shortly.
+Please let us know if you have any questions!
+Replacement orders
+Please send replacement to address on file
+Hi {{customer.firstName}}
+Thank you for your response and providing us with the pictures requested.
+We deeply apologize for the inconvenience this may have caused and have created a new order for a
+replacement.
+You will receive a tracking link once your order has been shipped.
+We highly appreciate your support for saving our oceans and marine life!
+Please feel free to contact us for any further assistance.
+Closing the tickets when there is no response from the customers
+Hello {{customer.firstName}},
+We are following up regarding our last email. It appears that we have yet to hear back from you.
+At this time, we will be closing out this email. If you need further assistance or have any questions, feel
+free to respond to this email thread.
+Thank you and have a great day!
+Wrong item received
+you guys sent us the wrong towel. We didn't get our turtle towel. :(
+Hello {{customer.name}},
+Thank you for reaching out to Sand Cloud!
+We want to sincerely apologize that you have received an incorrect item. Would you be able to provide us
+with the following information?
+- Picture of the incorrect item
+- Picture of the shipping label
+Please let us know what you are missing and if you would like for us to ship these items or process a
+refund.
+Thank you and we look forward to your response. 
+Unable to add items
+Hi I was in the middle of creating this order and I didn’t finish shopping. I wanted to get another
+towel and I didn’t get the opportunity to put in the discount code either.
+Hi Erica,
+Thank you for reaching out. We apologize for the delayed response.
+Your order is still in the processing stage. Unfortunately, we do not have an option to add more items as
+we do not have authorization to your card details.
+The best thing we can do is that we can cancel the order for you so that you can place another order with
+all the items of your choice applying the discount code FIREWORKS for 25% off.
+Please let us know if you would like to proceed with the order or not.

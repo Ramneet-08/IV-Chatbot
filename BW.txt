@@ -1,0 +1,313 @@
+USER >   Welcome popup & Home page  
+Please be advised that our portal is intended solely for providers and parents who need access to user measurements. As a user, you will not require portal access. Instead, after each weigh-in, you must share your scale display code with your provider and/or parent. The code will appear on your scale screen when you step on it.
+To ensure the most accurate readings, please follow these steps:
+Calibrate your scale by placing it on a hard surface and stepping on and off it, or tapping it until you see a "0" value on the display. You can refer to our video guide for detailed instructions - https://www.instagram.com/p/ClCKqKIp7wh/
+Notify your provider and/or parent of the scale version you have. V2 marketing under the Blind Weight Logo.
+When weighing in, step on your scale, and your code will settle momentarily. Take a picture of your scale code. Please note that your code is unique and does not expire. If you happen to miss capturing the code, don't worry, you can simply redo the weigh-in.
+Use the font key to better recognize the code letters. 
+ 
+Thank you for choosing Blind Weight. If you have any further questions or concerns, please do not hesitate to reach out to our support team at support@blindweight.com.
+Welcome to Blind Weight, where we support your journey 
+Blind Weight Team
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. TERMS CONTENT UPDATE: 
+
+Blind Weight Scales Confidentiality, and Non-Disclosure Agreement
+
+This Confidentiality and Non-Disclosure Agreement (the "Agreement") is entered into by and between Blind Weight LLC ("BW") and the provider or parent (the "Recipient") who signs up to use the BW app located at app.blindweight.com.
+Confidentiality:
+The Recipient shall not disclose, share, or distribute any information or data obtained from the BW app, including but not limited to decoder, user data, or any other proprietary information of BW, to any third party.
+Non-Disclosure:
+The Recipient shall not use any information or data obtained from the BW app for any purpose other than as specifically authorized by BW.
+Proprietary Rights:
+The Recipient acknowledges and agrees that all information and data obtained from the BW app is proprietary and confidential information of BW and is protected by applicable intellectual property laws.
+User Information:
+The Recipient grants BW the right to use their information obtained from the BW app for the purpose of promoting them as a user of the BW platform.
+Liability and Scale Readings:The Recipient acknowledges that Blind Weight Scales
+ is not liable for any inaccurate decoding of scale codes. Scale readings may show up inaccurate due to various factors, including but not limited to user error, wrong font recognition, scale calibration, surface, and other factors. Blind Weight Scales is not equivalent to professional medical weighing scales at a hospital or GP, and is to be used as a less-triggering solution for taking blind weight-in from home.
+Term:
+This Agreement shall remain in effect for as long as the Recipient is a user of the BW app or until BW terminates the Agreement.
+Remedies:
+The Recipient acknowledges that any breach of this Agreement may cause BW irreparable harm and that BW shall be entitled to seek equitable relief, including but not limited to, injunction and specific performance, in addition to any other remedies available at law.
+Governing Law:
+This Agreement shall be governed by and construed in accordance with the laws of the state of Florida without giving effect to any choice of law or conflict of law provisions.
+By checking and accepting below, the Recipient acknowledges that he or she has read and understands this Agreement and agrees to be bound by its terms and conditions.  
+
+—-------------
+
+
+
+
+
+
+
+
+
+3. Update button content: 
+      a. PROVIDER/CLINICIAN: Free for licensed providers and clinicians. Once you register, you can request a 5-minute call verification to gain access to our portal.  
+      b.  PARENT: Parent accounts are optional. Users share code with providers. Register for a $20 one-time fee to access the portal for automatic account creation and verification.
+     c. User: Users do not need portal access. Share your scale display code with your provider or parent via text msg or video call. Register to learn more.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+4. PARENT REGISTRATION > add “Learn more” button. This will show a popup or collapse to see the content - 
+ 
+As a registered parent, you can access our portal for a one-time activation fee of $20, enabling you to create and verify your account automatically. With this account, you can securely access and decode the scale display codes to retrieve weigh-in measurements. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Stripe > remove “secure 1-click  checkout with “LINK widget” 
+  
+
+
+
+6. Parent > Payment Success message > update to this content - 
+
+THANK YOU 
+
+
+Welcome to Blind Weight,
+Thank you for your payment and choosing our service. As a parent account holder, you will have access to a decoder that enables you to decode the weight value. 
+Please be aware that if you do not intend to view your child's weight measurement, you should not log in to the decoder to avoid accidentally seeing the measurement. We take the security and confidentiality of our user's information seriously and encourage you to be mindful of this feature.
+We would like to inform you that a portion of our proceeds goes to an eating disorder recovery non-profit organization. We believe in supporting the recovery community and promoting healthy attitudes towards food and body image. Our top recommendation for an eating disorder recovery non-profit organization is the National Eating Disorders Association (NEDA).
+We would love to hear your thoughts and feedback about which eating disorder recovery non-profit organization you would prefer to support. If you have any suggestions or preferences, please let us know.
+Unauthorized access to the decoder is prohibited and may be subject to legal action. We take the security and confidentiality of our user’s information seriously and will pursue all available legal remedies to protect it.
+Thank you for your understanding and cooperation. If you have any questions or concerns, please do not hesitate to contact us at support@blindweight.com.
+ 
+6.1. PARENT>  AUTO EMAIL > AFTER ACCOUNT REGISTRATION: 
+
+Subject: Welcome to Blind Weight Portal
+
+Hi {parentname},
+We are delighted to welcome you to Blind Weight, and thank you for registering with us. Our mission is to provide a less-triggering solution for taking blind weigh-ins from home, and we're glad to have you as a part of our community.
+
+As a registered parent, you can now access our portal for a one-time activation fee of $20, enabling you to automatically create and verify your account. With this account, you can securely access and decode the scale display codes to retrieve weigh-in measurements.
+
+Please note that Blind Weight Scales is not liable for any inaccurate decoding of scale codes. Scale readings may show up inaccurate due to various factors, including but not limited to user error, wrong font recognition, scale calibration, surface, and other factors. Blind Weight Scales is not equivalent to professional medical weighing scales at a hospital or GP, and is to be used as a less-triggering solution for taking blind weight-in from home.
+
+To ensure the most accurate readings, we recommend following these steps:
+1.    Calibrate your scale by placing it on a hard surface and stepping on and off it, or tapping it until you see a "0" value on the display. You can refer to our video guide for detailed instructions - https://www.instagram.com/p/ClCKqKIp7wh/
+2.    Notify your provider and/or parent of the scale version you have. V2 marketing under the Blind Weight Logo.
+3.    When weighing in, step on your scale, and your code will settle momentarily. Take a picture of your scale code. Please note that your code is unique and does not expire. If you happen to miss capturing the code, don't worry, you can simply redo the weigh-in.
+4.    Use the font key to better recognize the code letters.
+ 
+We understand that your loved one's well-being is of the utmost importance to you, and we are committed to providing you with the support and resources you need to make informed decisions. Please feel free to reach out to our customer service team at any time with any questions or concerns.
+
+Here are some helpful links for you:
+•    Portal Login URL: https://app.blindweight.com/
+•    FAQ's: https://blindweight.com/pages/faqs
+
+Thank you again for choosing Blind Weight. We look forward to working with you.
+
+Best regards,
+Blind Weight Team
+
+
+
+
+
+
+
+7. Decoder text: Update to say > The decoded value in lbs below: 
+
+ 
+
+8. Can we add mark her if it’s a parent users to show if they have paid already? That way we can see that info in there are any account issues for support. 
+
+
+8.1. Add the terms when they were signed and the IP address of the user with a date stamp.  
+
+
+
+
+
+9.  Privacy Policy page put in the footer: 
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Blind Weight will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Disclosure Of Data
+Legal Requirements
+Blind Weight may disclose your Personal Data in the good faith belief that such action is necessary to:
+To comply with a legal obligation
+To protect and defend the rights or property of Blind Weight
+To prevent or investigate possible wrongdoing in connection with the Service
+To protect the personal safety of users of the Service or the public
+To protect against legal liability
+Security Of Data
+The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+Service Providers
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Links To Other Sites
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Children's Privacy
+Our Service does not address anyone under the age of 18 ("Children").
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+Changes To This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+By email: info@blindweight.com
+By visiting this page on our website: www.blindweight.com/contact-us
+
+
+
+
+
+
+
+10. Provider > registration > Popup message content > The provider will have call us so update all the content of the popup > 
+
+Thank you for signing up for our portal at Blind Weight®. We appreciate your interest in our scales and are excited to work with you.
+To verify your account and grant you access to our portal, we require a short 5-minute onboarding call. During this call, we will gather some information about your practice, provide information on how to use our scales with your clients, and ensure that you have all the information you need to use our portal effectively.
+Please reach out to us at your convenience to schedule your onboarding call and activate your account as soon as possible. Alternatively, you can schedule a call back at a mutually convenient time by clicking here or texting and emailing us to request a callback.
+Phone: (754) 444-0018 
+Email: info@blindweight.com 
+ 
+
+11. Provider Email reply after registration > Update existing email template > new content requesting a callback 
+Subject: Account Verification for Blind Weight Portal
+Hi {providername},
+Thank you for signing up for our portal at Blind Weight®. We appreciate your interest in our scales and are excited to work with you.
+To verify your account and grant you access to our portal, we require a short 5-minute onboarding call. During this call, we will gather some information about your practice, provide information on how to use our scales with your clients, and ensure that you have all the information you need to use our portal effectively.
+Please reach out to us at your convenience to schedule your onboarding call and activate your account as soon as possible. Alternatively, you can schedule a call back at a mutually convenient time by clicking here or texting and emailing us to request a callback.
+Thank you again for choosing Blind Weight®, and we look forward to supporting your work with our innovative, cost-effective, user-friendly solution.
+Best regards,
+Blind Weight Team 
+Phone: (754) 444-0018 
+Email: info@blindweight.com
+ 
+
+12. Provider > registration error message> waiting approval >  update this message to remind the user to call to get their account verified.> use and replace with  this content 
+Thank you for signing up for our portal at Blind Weight®. We appreciate your interest in our scales and are excited to work with you.
+To verify your account and grant you access to our portal, we require a short 5-minute onboarding call. During this call, we will gather some information about your practice, provide information on how to use our scales with your clients, and ensure that you have all the information you need to use our portal effectively.
+Please reach out to us at your convenience to schedule your onboarding call and activate your account as soon as possible. Alternatively, you can schedule a call back at a mutually convenient time by clicking here or texting and emailing us to request a callback.
+Phone: (754) 444-0018 
+Email: info@blindweight.com 
+
+ 
+
+
+
+13. Decoder > Version two popup warning > Update content > 
+Are you sure you want to change the decoder to decode V2 scale codes? If you purchased your scale before February 1st, it's likely a V1 scale. To check, look for the "V2" etched on the glass or a label under the scale. V1 scales do not have any markings.
+
+ 
+
+
+
+
+
+14. Provider auto Email > the images of the decoder are old ones and the content we need to update >  
+ 
+Subject: Welcome to Blind Weight® Platform
+We are delighted to welcome you to Blind Weight® and thank you for choosing our innovative, cost-effective, user-friendly solution for taking blind weight-in measurements.
+Our mission is to provide a less-triggering solution for taking blind weight-in from home. Our scales are designed to make the weighing process more comfortable for those with eating disorders, body dysmorphia, and other mental health conditions. We believe that everyone deserves to feel comfortable and safe while taking care of their physical health, and we are committed to providing you and your clients with the support and resources you need to make informed decisions.
+Our scales are easy to use and display a unique code you can decode using our portal. Your clients can share their blind weigh-in code without ever having to log in to a portal, Bluetooth, or Wi-Fi connection, simply by stepping on the scale. Our portal allows you, the provider, to securely access and decode the scale display codes to retrieve measurement data.
+We understand that your work is essential to the well-being of your clients, and we are committed to supporting you every step of the way. Our customer service team is always available to answer any questions or concerns you may have, and we provide support and resources to help you use our scales and portal effectively.
+Thank you again for choosing Blind Weight®, and we look forward to working with you to promote a less-triggering and more comfortable approach to weighing.
+Best regards,
+Blind Weight Team
+ 
+
+If you experience any difficulties, email us at support@blindweight.com
+ 
+Let us know if you have any issues or questions.
+ 
+
+15. Provider > verification email > account under verification 
+
+Update content of the email to this - (keep logo and footer the same) 
+
+Hi {providername},
+
+Thank you for signing up for our portal at Blind Weight®. We appreciate your interest in our scales and are excited to work with you.
+To verify your account and grant you access to our portal, we require a short 5-minute onboarding call. During this call, we will gather some information about your practice, provide information on how to use our scales with your clients, and ensure that you have all the information you need to use our portal effectively.
+Please reach out to us at your convenience to schedule your onboarding call and activate your account as soon as possible. Alternatively, you can schedule a call back at a mutually convenient time by clicking here or texting and emailing us to request a callback.
+Phone: (754) 444-0018 
+Email: info@blindweight.com 
+Best Regards, 
+Blind Weight Team 
+
+
+
+
+ 
+ 
+
+
+16. Provider Content in popup when they open account: 
+:warning: READ ENTIRE MESSAGE :warning:
+Welcome to Blind Weight,
+We are thrilled to announce the release of our new and improved scale, Version 2. Based on feedback and ongoing testing, we have made several major upgrades to the scale.
+One of the key upgrades is that we have made the coding algorithm more complex, which improves the security and difficulty rating of the scale. This provides the user with a completely unique variation of codes and complexity.
+We have also updated our portal to include a new Version 2 decoder option. Please note that Version 1 scales were discontinued on 2/1/23. Any orders placed afterwards will be for Version 2 scales. To use the decoder properly, please make sure you select the correct scale version decoder for your code. You can click on the Help icon for instructions.
+OUR PASSION BEHIND THE INNOVATIVE  BLIND WEIGHT CONCEPT:
+We surveyed patients, parents, and providers and learned that there are three major roadblocks to incorporating a Blind Weight scale into a treatment plan. These roadblocks can impede treatment and/or lead to low product continuity. The first roadblock is affordability, including subscription fees, which can cause anxiety. The second roadblock is ease of use. Users do not want to log in to a portal or perform additional steps such as Bluetooth pairing, account creation, re-pairing, syncing, and other related steps. The third roadblock is the speed at which users receive the scale and how quickly any issues are resolved.
+HOW BLIND WEIGHT WORKS:
+
+Blind Weight is a less-triggering, affordable option for taking blind weigh-ins. It is a simple but effective innovative tool that uses a coded scale. The scale produces a code instead of a weight value on the display. Please note that the portal is not needed for the users, and data is never transmitted through any system. The codes do not expire and scales are not locked into any one user.  Blind Weight is not meant to track users' health data and is intended only to hide users' weight numbers and allow providers and/or parents to decode these values. We do not intend to duplicate your records, so please make sure to save your measurements in your own personal records.
+
+If you're working with a provider, the preferred method for the user to share their code is via text/email. You can also mimic an office visit and perform the weigh-in with the user via Zoom/video conference. Users can also communicate their code via voice as a last resort. Provide them with a Font Key to identify the code font. Save this key and keep it handy in case you want to share it with users who verbally tell you the code. Take a moment to study the key for yourself so you can quickly recall the font. Every provider and/or parent has their preferred method and scope of work, and we would love to hear what works best for you!
+WHAT DOES THE USER NEED TO DO TO GET STARTED:
+OPEN THE BOX: Batteries Included
+CALIBRATE: Make sure the user is taking their weigh-in measurement on a hard flat surface and that they have calibrated the scale by stepping on and off then tapping it until they see a 0. The scale is calibrated up to 400lbs.
+WEIGH-IN: Step on the scale. The display code will settle momentarily. Take a picture of the code.
+SHARE CODE: Send the code via text/email to the provider and/or parent. Repeat for each weigh-in.
+SHARING CODE VERBALLY: Check the Font Key to familiarize yourself with the font style to ensure proper reading.
+WHAT DOES THE PROVIDER AND/OR PARENT NEED TO DO TO GET STARTED:
+Verify the scale version.
+DECODE SCALE CODES: Receive the scale code images from your client/child. Log in to the portal and use the decoder to retrieve your measurement value for that code
+Lastly, we would like to inform you that starting 2023 a portion of our proceeds will go to an eating disorder recovery non-profit organization. We believe in supporting the recovery community and promoting healthy attitudes towards food and body image. Our current top recommendation for an eating disorder recovery non-profit organization is the National Eating Disorders Association (NEDA).
+We would love to hear your thoughts and feedback about which eating disorder recovery non-profit organization you would prefer to support. If you have any suggestions or preferences, please let us know at info@blindweight.com
+CODE KEY.png
+ 
+CODE KEY.png
+
+
